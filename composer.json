@@ -1,0 +1,12 @@
+{
+	"name": "wp-cli-find-replace",
+	"description": "Find and replace in many places within wordpress.",
+	"homepage": "https://github.com/jakeii/wp-cli-find-replace",
+	"license": "GPLv2",
+	"require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"files": [ "command.php" ]
+	}
+}
